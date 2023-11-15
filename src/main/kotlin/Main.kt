@@ -28,9 +28,9 @@ fun main1()
   // toFind.x = 2.0; toFind.y = 1.0; //is on
    // toFind.x = 1.0; toFind.y = 1.0; //is
    // toFind.x = 4.0; toFind.y = 4.0; //is out
-    ABC.a.x = 1.0; ABC.a.y = 1.0;
-   ABC.b.x = 2.0; ABC.b.y = 4.0;
-    ABC.c.x = 4.0; ABC.c.y = 1.0;
+  //  ABC.a.x = 1.0; ABC.a.y = 1.0;
+ //  ABC.b.x = 2.0; ABC.b.y = 4.0;
+   // ABC.c.x = 4.0; ABC.c.y = 1.0;
 
     println("Я ищу, в треугольнике ABC ли находится точка D");
     println("Введите координату X точки D:")
